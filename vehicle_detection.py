@@ -70,7 +70,7 @@
 import torch
 import cv2
 
-# Vehicle classes in YOLOv5 (from COCO dataset)
+
 VEHICLE_CLASSES = ['car', 'bus', 'truck', 'motorcycle']
 
 # Green light time per vehicle (in seconds)
